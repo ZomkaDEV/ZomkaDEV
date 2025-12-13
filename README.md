@@ -1,4 +1,5 @@
-hi! i'm alisa!
+# hi! i'm alisa! (she/they)
+
 i'm a jackbox and minecraft obsessed nerd, linux user, developer, computer tinkerer, animation/tv show "connoisseur"
 
 i speak english, russian, lithuanian and german
